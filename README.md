@@ -1,7 +1,3 @@
-<html>
-  <body background="https://api.fantasyzone.cc/tu?class=pc&type=url">
-  </body>
-</html>
 # \\Huaji_MUR233/
 > 2333
 
