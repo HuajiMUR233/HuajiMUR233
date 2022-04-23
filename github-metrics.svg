@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shiftkey/desktop</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of GitHub Desktop to support various Linux distributions</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bkaradzic/bgfx</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.</div>
@@ -2613,7 +2613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 16:34:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 17:29:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
