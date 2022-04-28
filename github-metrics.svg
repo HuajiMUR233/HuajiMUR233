@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gabime/spdlog</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast C++ logging library.</div>
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ruanyf/weekly</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">科技爱好者周刊，每周五发布</div>
@@ -2365,7 +2365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blinue/Magpie</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使游戏窗口全屏显示</div>
@@ -2544,14 +2544,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2022, 18:39:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 19:31:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
