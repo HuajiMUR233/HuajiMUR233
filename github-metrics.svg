@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hoffstadt/DearPyGui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies</div>
@@ -2267,7 +2267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/terminal</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new Windows Terminal and the original Windows console host, all in the same place!</div>
@@ -2320,7 +2320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ryujinx/Ryujinx</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Nintendo Switch Emulator written in C#</div>
@@ -2551,14 +2551,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2022, 02:41:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 4 May 2022, 03:25:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
