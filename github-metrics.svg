@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1379" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1382" class="">
     <defs>
         <style/>
     </defs>
@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ant-design/ant-design</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An enterprise-class UI design language and React UI library</div>
@@ -2267,7 +2267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ant-design/ant-design-pro</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</div>
@@ -2320,7 +2320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamkun/dayjs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API</div>
@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>digitalocean/nginxconfig.io</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚙️ NGINX config generator on steroids 💉</div>
@@ -2548,14 +2548,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2022, 19:29:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 May 2022, 21:07:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
