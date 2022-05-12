@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/calculator</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows Calculator: A simple yet powerful calculator that ships with Windows</div>
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caddyserver/caddy</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, multi-platform web server with automatic HTTPS</div>
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 19:28:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 21:03:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
