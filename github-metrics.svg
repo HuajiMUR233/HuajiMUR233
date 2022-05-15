@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SychicBoy/NETReactorSlayer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source (GPLv3) deobfuscator for Eziriz .NET Reactor</div>
@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltMC/chasm</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chasm is a java bytecode transformer designed to handle collision between transformers wherever possible.</div>
@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltMC/quilt-mappings-on-loom</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Quilt Mappings on Loom</div>
@@ -2404,7 +2404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltMC/quiltflower</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of the FernFlower decompiler patched to produce better code, apply javadoc, and decompile asynchronously.</div>
@@ -2584,14 +2584,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2022, 22:28:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 23:33:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
