@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 10 users
+                            Followed by 11 users
                         </div>
                     </section>
                     <section>
@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyrixty/fluoride</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obfuscate your Python code with ease!</div>
@@ -2256,7 +2256,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fogasl/zanza</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dead-simple string obfuscation in Python</div>
@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Anubis</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code through anti debuggers, junk code and custom encryption.</div>
@@ -2362,7 +2362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Carbon</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code by renaming classes, functions, variables and remove comments and docstrings.</div>
@@ -2415,10 +2415,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    10 followers
+                    11 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAFIUlEQVR4Ab3BfWycdQHA8e/v9zz33Fuvd9drey993XVr166FsWZzbEpZyAxBZR0xGmLi5A8xgAZDEP+QxAQnZioapol/zFcS1D+MbLIhIZtRV5iFbXRlgba4rnR95bi1vev17p6753nkyJo0Te+5/uXnw/+bYJO8Tu1AqMr7bZfD0WOY5mJW199Y0QuDQgiX3+V8QFFkeDK5+MWCYYxjQ7AJQa/nGzG/71fiY9iYT6W/l0hnnsWGpAIphDfq9z0nPkYFetG4RgUSeyIW8J+QQnipwLIsTMtapgKJDZ/LdSjgcT24fWsTv3j2W3S2t7CWEIID+3eypTmCEIKov/o4ILChYsPn0u6t8rp5/ug3iUVC3L3vdhLJJWbmk1iWRUtDPcGAj5n5JF9/4jkmpz+Ma6raoReLI5QhseFQlJYv3d9HLBJiVV3Iz+1dcXbuaCMY8FESC4f4wXcfokSVMoQNiT1j/55usCzGJqYZuPQu2VyeVVfHPmDwyih5vcDO7jZ8VW4M01zAhoqNXKEwXBP0f+6nL7xKoVgk6PfR096K28Unxmducn0mwZnXr3LoQC/tW5vnLoxeH8WGio1oa3PTiVMDPPSFO9keb2R5JcePfvcKkZCfxEKag3u7uL9vJ6lMlhdOv4Hh8a3UBKrjNxdT71OGQhnx5siWoZM//01iYZmueJT/DI2Qy+sUTXj4gbuYmE2yt7uVC0Mj5PIFDu7rAWSwc0t0+dyFK+coQ6UMVVEcmqqgF4pE62qI1tVQcml0GoTA49Jwu10c3H8HJe+Oz9AYDjJ5Y8qBDZUy5hILs8nFdGJ7a6TuDy+/Tle8gXf+O8W25npuLqW5646t/PbUALu2t5DN6UzMfsTDh/v49Z/PDGNDYKMhHIpOnv/91PJKTk7OJmmN1eJ2aSxnsjg1B5pD5dpUApem0hSu4fvH//j0M7/80w+xIbExPZ+cvTj8/pvVXjfdWxtJLa9weTJPytlEgghvj82yrTlMUyREycmzF05RgaSCYyf+cgyLT9QFq3nrxb/y7yd+wmtP/RgHOqtePX/5zPDIxFUqUKjgvWs3RsK1gbrdPdv2KIpk95076G5vofe+XYSb6imZmJofP/TI0cPpTHaZChQ24ZV/vfX3hVQmub+36zNOl6aJWg+4HWBZnDw7+FL/o0cPzyUW5tkEhU0aHBp98+5P9Rzy+7yN+UKBbC5POpPjyHd+9uXrU/PX2SSFCoQQ0lsd6Prqka898thX7nvQoyFVRcGlafi8Ltp23dNx+tzADaOgf2Sahk4FCmWoqqOqub3n6fZd+16saYg/dfzYMweCSkqqVgFFkUgpQQgiHXu3fLBYOOLwh5+sDtb25jLpMT2XnaMMlQ14fP7Ozt19Lzs9VW1Fw8DQdRaWUsRiMdTCGGBRUnQEMFU3i0sp9EJRC9Q39Pvrop+ffG/oyenxkefZgMI6TrenoWffZwc0t6fZsizy+TwlQ5cvktHh5GsDJBeW+MfFUf42OMnlK+9w/uIwCIEUAkVRZKAueq9RyM+lF5OXWEewTufuvpeC4YZ+bsnm85imSX7pQ0w9x0ZcoQaEVHA7nUgpKTENI/v2P0935LOZG6whWcPj83cF62P93GJZFqZpUiKkQllCUqIoCk5No0QqijsW73icdSRr1EabDiMEq4QQSCkpEVJlQ1JFCEHJPZ/eQ+9tnayqiTT2s47KGu4q/w7WcSgKedNEqA42IlWVEiklZ88PspbT5W2TiuI0DSPPLf8D0HnSgZHO8GUAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
@@ -2555,14 +2556,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 03:24:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 04:34:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
