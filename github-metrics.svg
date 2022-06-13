@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1432" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
     <defs>
         <style/>
     </defs>
@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyrixty/fluoride</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obfuscate your Python code with ease!</div>
@@ -2256,7 +2256,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fogasl/zanza</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dead-simple string obfuscation in Python</div>
@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Anubis</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code through anti debuggers, junk code and custom encryption.</div>
@@ -2362,7 +2362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Carbon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code by renaming classes, functions, variables and remove comments and docstrings.</div>
@@ -2485,7 +2485,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">facebookresearch/CodeGen</span>
+                                        <span class="repo">Kyrixty/fluoride</span>
                                     </div>
                                 </div>
                             </section>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">chenx6/baby_obfuscator</span>
+                                        <span class="repo">fogasl/zanza</span>
                                     </div>
                                 </div>
                             </section>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">CodingGay/BlackDex</span>
+                                        <span class="repo">0sir1ss/Anubis</span>
                                     </div>
                                 </div>
                             </section>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">CodingGay/BlackObfuscator</span>
+                                        <span class="repo">0sir1ss/Carbon</span>
                                     </div>
                                 </div>
                             </section>
@@ -2537,7 +2537,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">CodingGay/BlackReflection</span>
+                                        <span class="repo">Twi1ight/CSAgent</span>
                                     </div>
                                 </div>
                             </section>
@@ -2555,14 +2555,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 02:38:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 03:24:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
