@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyrixty/fluoride</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obfuscate your Python code with ease!</div>
@@ -2261,7 +2261,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fogasl/zanza</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dead-simple string obfuscation in Python</div>
@@ -2314,7 +2314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Anubis</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code through anti debuggers, junk code and custom encryption.</div>
@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0sir1ss/Carbon</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python script to obfuscate and protect your code by renaming classes, functions, variables and remove comments and docstrings.</div>
@@ -2561,14 +2561,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 10:37:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 12:19:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
