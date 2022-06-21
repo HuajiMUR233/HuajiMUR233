@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RelativityMC/C2ME-fabric</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Fabric mod designed to improve the chunk performance of Minecraft.</div>
@@ -2248,7 +2248,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        119
+                                        120
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2267,7 +2267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jfecher/ante</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A safe, easy systems language</div>
@@ -2320,7 +2320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alecthomas/chroma</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A general purpose syntax highlighter in pure Go</div>
@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvm-sh/nvm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">Ocelot5836/particle-rain</span>
+                                        <span class="repo">RelativityMC/C2ME-fabric</span>
                                     </div>
                                 </div>
                             </section>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">hhj4ck/checkm30</span>
+                                        <span class="repo">jfecher/ante</span>
                                     </div>
                                 </div>
                             </section>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">focus-creative-games/luban</span>
+                                        <span class="repo">alecthomas/chroma</span>
                                     </div>
                                 </div>
                             </section>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">focus-creative-games/huatuo</span>
+                                        <span class="repo">nvm-sh/nvm</span>
                                     </div>
                                 </div>
                             </section>
@@ -2554,7 +2554,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">facebook/yoga</span>
+                                        <span class="repo">Lightning-AI/lightning</span>
                                     </div>
                                 </div>
                             </section>
@@ -2579,7 +2579,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 02:36:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 03:24:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
