@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pypa/setuptools_scm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the blessed package to manage your versions by scm tags</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pre-commit/pre-commit-hooks</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some out-of-the-box hooks for pre-commit</div>
@@ -2325,7 +2325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/pip-tools</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of tools to keep your pinned Python dependencies fresh.</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqlfluff/sqlfluff</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A SQL linter and auto-formatter for Humans</div>
@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">FBlackBox/BlackBox</span>
+                                        <span class="repo">pypa/setuptools_scm</span>
                                     </div>
                                 </div>
                             </section>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">ericniebler/range-v3</span>
+                                        <span class="repo">pre-commit/pre-commit-hooks</span>
                                     </div>
                                 </div>
                             </section>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">juce-framework/JUCE</span>
+                                        <span class="repo">jazzband/pip-tools</span>
                                     </div>
                                 </div>
                             </section>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">google/benchmark</span>
+                                        <span class="repo">sqlfluff/sqlfluff</span>
                                     </div>
                                 </div>
                             </section>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">NVIDIA/TensorRT</span>
+                                        <span class="repo">envoyproxy/envoy</span>
                                     </div>
                                 </div>
                             </section>
@@ -2578,14 +2578,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2022, 04:31:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 23 Jun 2022, 05:28:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
