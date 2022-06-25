@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/vuepress</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📝 Minimalistic Vue-powered static site generator</div>
@@ -2287,7 +2287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/awesome-vue</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎉 A curated list of awesome things related to Vue.js</div>
@@ -2334,7 +2334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/core</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</div>
@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angular/components</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Component infrastructure and Material Design components for Angular</div>
@@ -2587,14 +2587,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 22:26:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 23:31:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
