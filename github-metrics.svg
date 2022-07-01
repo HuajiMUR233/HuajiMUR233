@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radii/msieve</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">msieve - Number Field Sieve implementation by Jason Papadopoulos</div>
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Guardsquare/proguard</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ProGuard, Java optimizer and obfuscator</div>
@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x364e3ab6/AWVS-13-SCAN-PLUS</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a companion software based on the Acunetix Web Vulnerability Scanner 12、13、14 (AWVS 12、AWVS 13、AWVS 14) scanning engine.</div>
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guchangan1/All-Defense-Tool</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。</div>
@@ -2564,14 +2564,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2022, 12:31:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jul 2022, 13:43:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
