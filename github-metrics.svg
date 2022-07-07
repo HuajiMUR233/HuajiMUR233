@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IgorKorkin/MemoryRanger</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MemoryRanger protects kernel data and code by running drivers and hosting data in isolated kernel enclaves using VT-x and EPT features. MemoryRanger has been presented at the BlackHat, HITB, CDFSL.</div>
@@ -2271,7 +2271,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HackOvert/AntiDBG</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bunch of Windows anti-debugging tricks for x86 and x64.</div>
@@ -2324,7 +2324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wanttobeno/AntiDebuggers</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">30种方法检测程序是否被调试</div>
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strivexjun/XAntiDebug</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VMProtect 3.x Anti-debug Method Improved</div>
@@ -2579,7 +2579,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 18:43:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 19:28:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
