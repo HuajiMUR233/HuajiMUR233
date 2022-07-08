@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AsahiLinux/m1n1</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bootloader and experimentation playground for Apple Silicon</div>
@@ -2288,7 +2288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maruohon/tweakeroo</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A client-side Minecraft mod that adds various "tweaks" (= usually small-ish individual features)</div>
@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isXander/Zoomify</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A zoom mod with infinite customizability.</div>
@@ -2600,14 +2600,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2022, 00:52:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 01:39:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
