@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahrm/sioyek</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sioyek is a PDF viewer designed for reading research papers and technical books.</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>littlefs-project/littlefs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little fail-safe filesystem designed for microcontrollers</div>
@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Windows-driver-samples</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.</div>
@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libbpf/libbpf</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated upstream mirror for libbpf stand-alone build.</div>
@@ -2606,7 +2606,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2022, 14:35:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 15:30:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
