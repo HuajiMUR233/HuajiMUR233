@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linyacool/WebServer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C++ High Performance Web Server</div>
@@ -2262,7 +2262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alinshans/MyTinySTL</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Achieve a tiny STL in C++11</div>
@@ -2315,7 +2315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebAssembly/wabt</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The WebAssembly Binary Toolkit</div>
@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minetest/minetest</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minetest is an open source voxel game engine with easy modding and game creation</div>
@@ -2569,14 +2569,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2022, 02:37:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 12 Jul 2022, 03:25:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
