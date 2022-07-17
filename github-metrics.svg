@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BelmuTM/NobleRT</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Minecraft shaderpack that enhances one's experience with the help of good-looking graphics and light simulations.</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GPUOpen-Effects/FidelityFX-FSR</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FidelityFX Super Resolution</div>
@@ -2345,7 +2345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GPUOpen-Effects/FidelityFX-FSR2</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FidelityFX Super Resolution 2</div>
@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>decompiler-explorer/decompiler-explorer</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!</div>
@@ -2597,14 +2597,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2022, 18:31:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 17 Jul 2022, 19:26:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
