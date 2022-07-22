@@ -2235,7 +2235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icsharpcode/ILSpy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform!</div>
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnSpyEx/ILSpy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Decompiler</div>
@@ -2577,14 +2577,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 21:49:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 22:31:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
