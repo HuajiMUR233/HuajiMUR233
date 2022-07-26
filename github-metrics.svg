@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1910" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1500" class="">
     <defs>
         <style/>
     </defs>
@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>barneygale/quarry</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python library that implements the Minecraft network protocol and data types</div>
@@ -2267,7 +2267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aleksilassila/litematica-printer</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extension for Litematica that adds the missing printer functionality for 1.18, 1.17 and 1.16</div>
@@ -2320,7 +2320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Patbox/sgui</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library for creating custom, server side guis on Fabric</div>
@@ -2341,7 +2341,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        29
+                                        30
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2505,6 +2505,19 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">root-x-krypt0n-x/s1c0n</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">barneygale/quarry</span>
                                     </div>
                                 </div>
@@ -2556,108 +2569,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 54 commits in
-                                        <span class="repo">HuajiMUR233/UI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#28f4fb2</div>
-                                        <div class="message">修复Ubuntu的docker镜像
-
-修复了Ubuntu镜像无法开启基岩版服务器的问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01c188a</div>
-                                        <div class="message">Fix: 新增跳转功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4432611</div>
-                                        <div class="message">Create codeql.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35d7ead</div>
-                                        <div class="message">Fix: 主干意外缺少 TYPE_MINECRAFT_MCDR 定义</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d625a8</div>
-                                        <div class="message">Create webpack.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1572cbe</div>
-                                        <div class="message">Feat: 兼容终端全屏</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83e017f</div>
-                                        <div class="message">Feat: 控制台手机兼容</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af4e5af</div>
-                                        <div class="message">Feat: 新增安装账号</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9573fd6</div>
-                                        <div class="message">Feat: 自动大小</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e5c898</div>
-                                        <div class="message">Feat: 新增设置选项</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a88f63</div>
-                                        <div class="message">Feat: 新增伪终端设置界面</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58db95e</div>
-                                        <div class="message">Feat: 完善设置界面</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a80ea8</div>
-                                        <div class="message">Feat: 新增伪终端列</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#613f5c9</div>
-                                        <div class="message">Feat: 新增选项框</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#190fc0c</div>
-                                        <div class="message">Feat: 新增提示语句</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57ea13c</div>
-                                        <div class="message">Feat: 新增安装过程依赖库安装</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9871378</div>
-                                        <div class="message">Feat: 新增PTY认知</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4aa3f19</div>
-                                        <div class="message">Merge pull request #59 from HuajiMUR233/master
-
-支持MCDR的配置文件和权限文件的特定配置编辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8052dc0</div>
-                                        <div class="message">Merge pull request #58 from litfa/master
-
-Fix: 修改文案</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15dc1fc</div>
-                                        <div class="message">Fix: 修改文案</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2671,14 +2582,14 @@ Fix: 修改文案</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2022, 05:28:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 06:33:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
