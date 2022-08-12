@@ -2249,7 +2249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TideSec/GoBypassAV</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。</div>
@@ -2296,7 +2296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sinkillerj/ProjectE</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ProjectE. A complete rewrite of EE2 for modern Minecraft versions.</div>
@@ -2349,7 +2349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sholtrop/ldpfuse</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">C library for developing file systems in userspace that leverage LD_PRELOAD.</div>
@@ -2402,7 +2402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veselink1/refl-cpp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static reflection for C++17 (compile-time enumeration, attributes, proxies, overloads, template functions, metaprogramming).</div>
@@ -2640,14 +2640,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 12:48:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 13:31:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
