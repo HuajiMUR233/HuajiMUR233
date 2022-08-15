@@ -2223,7 +2223,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encode/django-rest-framework</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web APIs for Django. 🎸</div>
@@ -2276,7 +2276,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encode/broadcaster</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Broadcast channels for async web apps. 📢</div>
@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encode/typesystem</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data validation, serialization, deserialization &amp; form rendering. 🔢</div>
@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encode/httpcore</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal HTTP client. ⚙️</div>
@@ -2593,7 +2593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2022, 06:33:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 16 Aug 2022, 07:31:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
