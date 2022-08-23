@@ -2214,7 +2214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catsout/wallpaper-engine-kde-plugin</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kde wallpaper plugin integrating wallpaper engine</div>
@@ -2267,7 +2267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veritas501/core2elf64</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Do same thing like https://github.com/enbarberis/core2ELF64 but in python3 (WIP)</div>
@@ -2314,7 +2314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust-bindgen</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically generates Rust FFI bindings to C (and some C++) libraries.</div>
@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>py-mine/PyMine-Server</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and easy to use, moddable, Python based Minecraft server!</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2022, 03:25:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 04:31:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
