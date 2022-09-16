@@ -2229,7 +2229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fxmorin/MemoryLeakFix</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Fabric Mod that fixes multiple memory leaks in minecraft</div>
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lapce/lapce</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning-fast and Powerful Code Editor written in Rust</div>
@@ -2335,7 +2335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scylladb/scylladb</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NoSQL data store using the seastar framework, compatible with Apache Cassandra</div>
@@ -2388,7 +2388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.</div>
@@ -2597,7 +2597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2022, 23:36:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Sept 2022, 00:56:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
