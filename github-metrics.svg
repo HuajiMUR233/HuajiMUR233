@@ -2239,7 +2239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arinerron/CVE-2022-0847-DirtyPipe-Exploit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A root exploit for CVE-2022-0847 (Dirty Pipe)</div>
@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Markakd/CVE-2022-2588</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">exploit for CVE-2022-2588</div>
@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matrixcascade/PainterEngine</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C</div>
@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>audacity/audacity</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio Editor</div>
@@ -2601,7 +2601,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2022, 18:36:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Sept 2022, 19:30:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
