@@ -2292,7 +2292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Markakd/CVE-2022-2588</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">exploit for CVE-2022-2588</div>
@@ -2339,7 +2339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matrixcascade/PainterEngine</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C</div>
@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>audacity/audacity</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio Editor</div>
@@ -2594,14 +2594,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2022, 00:47:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 26 Sept 2022, 01:36:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
