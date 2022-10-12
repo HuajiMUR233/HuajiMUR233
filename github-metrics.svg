@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-redis/redis</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-safe Redis client for Golang</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorilla/websocket</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, well-tested and widely used WebSocket implementation for Go.</div>
@@ -2325,7 +2325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gogf/gf</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casbin/casbin</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An authorization library that supports access control models like ACL, RBAC, ABAC in Golang</div>
@@ -2590,7 +2590,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2022, 01:54:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Oct 2022, 02:50:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
