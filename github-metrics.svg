@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NextAlone/Nagram</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The third-party Telegram android app.</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ExpLangcn/wechat_info_collect</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等</div>
@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BlackINT3/OpenArk</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenArk is an open source anti-rookit(ARK) tool for Windows.</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zeux/meshoptimizer</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mesh optimization library that makes meshes smaller and faster to render</div>
@@ -2577,14 +2577,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2022, 17:43:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Oct 2022, 18:43:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
