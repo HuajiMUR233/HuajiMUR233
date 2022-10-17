@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astei/krypton</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Fabric mod that optimizes the Minecraft networking stack and entity tracker.</div>
@@ -2262,7 +2262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dani-garcia/vaultwarden</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</div>
@@ -2315,7 +2315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashcat/hashcat</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World's fastest and most advanced password recovery utility</div>
@@ -2362,7 +2362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AOMediaCodec/libavif</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">libavif - Library for encoding and decoding .avif files</div>
@@ -2574,7 +2574,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 15:57:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 16:55:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
