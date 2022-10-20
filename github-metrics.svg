@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>void-stack/VMUnprotect.Dumper</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VMUnprotect.Dumper can dynamically untamper VMProtected Assembly.</div>
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ahora57/AmogusPlugin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VMProtect improved idea</div>
@@ -2589,14 +2589,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2022, 23:44:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 01:00:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
