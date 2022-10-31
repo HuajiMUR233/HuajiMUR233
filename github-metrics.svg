@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1480" class="">
     <defs>
         <style/>
     </defs>
@@ -2209,7 +2209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ALTaleX531/TranslucentFlyouts</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Acrylic effect for most of the flyouts</div>
@@ -2262,7 +2262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Maplespe/ExplorerBlurMica</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11</div>
@@ -2315,7 +2315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Maplespe/explorerTool</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Windows Explorer background image</div>
@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/DeepSpeech</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.</div>
@@ -2575,14 +2575,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2022, 18:38:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 31 Oct 2022, 19:31:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
