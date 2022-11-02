@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kafuuchino-desu/MCDaemon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a python script for automatically controlling Vanilla Minecraft server</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/miri</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interpreter for Rust's mid-level intermediate representation</div>
@@ -2325,7 +2325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crossbeam-rs/crossbeam</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools for concurrent programming in Rust</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/bat</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cat(1) clone with wings.</div>
@@ -2585,14 +2585,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 19:30:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 21:10:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
