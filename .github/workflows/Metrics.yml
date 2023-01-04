@@ -35,4 +35,3 @@ jobs:
           plugin_traffic: yes
           plugin_languages: yes
           plugin_licenses: yes
-          plugin_activity: yes
