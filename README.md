@@ -1,4 +1,4 @@
-![Metrics](github-metrics.svg)
+# Hi! [Huaji_MUR233](https://github.com/HuajiMUR233) is here
 
 ![Skills](https://skillicons.dev/icons?i=androidstudio,cpp,docker,git,github,gradle,idea,java,linux,md,python,rust,vercel,visualstudio,vscode)
 
