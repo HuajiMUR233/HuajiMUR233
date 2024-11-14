@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Izumino's Home</title>
+  <meta name="description" content="I'm Izumino">
+  <link rel="icon" href="static/image/avatar-circle.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="static/style.css">
+  <script>
+    function getRandomInt(max) {
+      return Math.floor(Math.random() * max);
+    }
+
+    document.write('<style>body{background-image:url(' + 'static/image/background' + getRandomInt(5) + '.webp' + ');</style>');
+  </script>
+</head>
+
+<body class="text-2xl font-sans h-screen overflow-hidden bg-cover bg-no-repeat bg-fixed bg-slate-50">
+  <div id="main" class="h-screen backdrop-blur-sm">
+    <div id="about" class="container bg-slate-50 h-80 grid grid-cols-10 justify-center gap-0 rounded-xl shadow-2xl">
+      <div class="avatar bg-cover bg-no-repeat bg-center col-span-3 rounded-l-xl"></div>
+      <div id="readme" class="content-start p-5 col-span-5 grid grid-rows-2 content-between h-80">
+        <div class="content-start">
+          <div class="text-5xl py-3 text-slate-900 font-medium">Izumino Saki</div>
+          An indenpent developer
+          <img alt="skills" class="my-2" src="static/image/skills.svg">
+        </div>
+
+        <div class="content-end">
+          <span class="text-lg">You can find me at:</span>
+          <div id="icons">
+            <a href="https://github.com/HuajiMUR233"><i class="fa-brands fa-github"></i></a>
+            <a href="https://twitter.com/HMur233"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://steamcommunity.com/id/izuminosaki"><i class="fa-brands fa-steam"></i></a>
+          </div>
+          <div class="pt-1 text-xs text-slate-600 font-mono font-thin">
+            My OpenPGP Public Key:
+            <a href="https://keyoxide.org/eb96a622b551964b3f6e9f7b7dae108b0c351d44">
+              <u>EB96A622B551964B3F6E9F7B7DAE108B0C351D44</u>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-span-2 h-80 py-5 pr-5">
+        <!-- Working in process... -->
+      </div>
+    </div>
+  </div>
+  </div>
+</body>
+
+</html>

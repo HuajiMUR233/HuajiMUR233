@@ -1,0 +1,27 @@
+body {
+  color: #474e57;
+  background-image: url("image/background0.webp");
+}
+
+.container {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#about {
+  margin: 0 auto;
+  width: 1100px;
+}
+
+.avatar {
+  background-image: url("image/avatar.webp");
+}
+
+#icons i {
+  padding-right: 2px;
+}
+
+a:hover {
+  color: rgb(30 41 59);
+}
