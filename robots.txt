@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /index.html
-Allow: /static/
-Disallow: /static/tailwind.input.css

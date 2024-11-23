@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "I'm Izumino",
   "scripts": {
-    "tailwind": "tailwindcss -i ./static/tailwind.input.css -o ./static/tailwind.css --minify"
+    "tailwind": "tailwindcss -i ./static/style.input.css -o ./static/style.css --minify"
   },
   "keywords": [],
   "author": "Izumino Saki",
