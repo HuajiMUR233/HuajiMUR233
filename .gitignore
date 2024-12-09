@@ -26,3 +26,4 @@ dist-ssr
 .idea/
 .eslintcache
 pnpm-lock.yaml
+.jampack/
