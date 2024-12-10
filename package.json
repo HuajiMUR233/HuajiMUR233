@@ -19,6 +19,8 @@
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
     "lightningcss": "^1.28.2",
+    "noto-sans-sc": "^37.0.0",
+    "noto-serif-sc": "^31.0.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
     "terser": "^5.37.0",
